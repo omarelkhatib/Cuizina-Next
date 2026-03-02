@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://active-apt-bat-couklh-omarelkhatib1-7005s-projects.vercel.app/sitemap.xml
